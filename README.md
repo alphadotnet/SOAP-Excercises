@@ -1,5 +1,4 @@
-# WorldClient: SOAP Service Client Application
-
+# WorldClient: SOAP Service Client Application (Excercise 1)
 ## Giới thiệu
 WorldClient là một ứng dụng Windows Forms được thiết kế để kết nối và tương tác với dịch vụ SOAP (WorldService). Dịch vụ SOAP cung cấp các chức năng để truy vấn thông tin quốc gia và thành phố từ cơ sở dữ liệu.
 
